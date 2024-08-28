@@ -2,7 +2,11 @@
 
 Today I Learned
 
-2 TILs and counting...
+3 TILs and counting...
+
+## Microsoft Copilot
+
+- [Generate Paper Summary](https://github.com/kktsuji/til/blob/main/microsoft-copilot/generate-paper-summary.md)
 
 ## Test-Driven Development (TDD)
 
