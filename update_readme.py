@@ -6,6 +6,8 @@ _BASE_URL = "https://github.com/kktsuji/til/blob/main/"
 _REPLACE_LIST = {
     "## Test-driven-development": "## Test-Driven Development (TDD)",
     "Tdd Key Concepts": "TDD Key Concepts",
+    "## Vision-language-models": "## Vision-Language Models",
+    "Cplip": "CPLIP:",
 }
 
 
