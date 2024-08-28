@@ -1,9 +1,9 @@
 The simple and powerful key concepts of test-driven development (TDD) are following:
 
 * Write new code only if automatic tests have failed
-* Delete dupulication
+* Delete duplication
 
-These consepts lead to the following procedures:
+These concepts lead to the following procedures:
 
 1. Red: Write a small test code that will always fail.
 2. Green: Write new code to make the test successful (any ugly code can be allowed in this process).
